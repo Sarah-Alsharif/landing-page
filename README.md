@@ -1,7 +1,10 @@
 # landing-page
 
+
+
 ## Task
-* In this project I convert static page to dynamic page
+* build a multi-section landing page, with a dynamically updating navigational
+  menu based on the amount of content that is added to the page.
 
 ## Functionalities
 * create dynamic navigation
